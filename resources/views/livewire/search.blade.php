@@ -12,7 +12,7 @@
               
             {{ $q }}
 
-              <form method="get" action="/search">
+              <form method="get" action="/search/all">
   
                   Search: 
                   <input type="search" 
